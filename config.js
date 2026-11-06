@@ -17,6 +17,6 @@
    datos de clientes. */
 
 window.SUPABASE_CONFIG = {
-  url: "PEGA_AQUI_TU_URL",
-  anonKey: "PEGA_AQUI_TU_CLAVE"
+  url: "https://bxyrnmrnpawmfovakuxu.supabase.co",
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ4eXJubXJucGF3bWZvdmFrdXh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM5MTk0NjQsImV4cCI6MjEwOTQ5NTQ2NH0.H4TrWOYxWOPQTdWN6rneo6NUubK_vnX-BUTqNHSo6Yo"
 };
